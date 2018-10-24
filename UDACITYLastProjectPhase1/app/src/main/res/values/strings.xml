@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UDACITYLastProjectPhase1</string>
+
+    <string name="empty_list_view_text">There is nothing to show now :(\n   Why won\'t you try out that button down here:</string>
+    <string name="quantity">Quantity: </string>
+    <string name="price">Price:</string>
+    <string name="add_new_product">Add new product!</string>
+    <string name="add_product">Add product!</string>
+
+    <string name="product_name">Product name:</string>
+    <string name="product_quantity">Product quantity:</string>
+    <string name="product_price">Product price:</string>
+    <string name="supplier_name">Supplier name:</string>
+    <string name="supplier_phone_number">Supplier phone number:</string>
+
+    <string name="editor_activity_title_add_product">Add product</string>
+    <string name="editor_activity_title_edit_product">Edit product</string>
+    <string name="delete_button">Delete product</string>
+    <string name="button_call_supplier">Call the supplier</string>
+    <string name="sell_button">Sell!</string>
+    <string name="update_product_button">Update product!</string>
+
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+
+    <string name="quantity_error_toast">Quantity can\'t be lower than 0!</string>
+    <string name="delete_error">You should create the product first!</string>
+    <string name="sell_error">Can\'t sell the product</string>
+    <string name="editor_insert_product_failed">Something went wrong when inserting product</string>
+    <string name="editor_insert_product_succesed">Product inserted succesfully</string>
+    <string name="editor_insert_product_null_variables">Product name, price and quantity can\'t be null!</string>
+    <string name="dialog_interface_delete_button">Are you sure you want to delete this product?</string>
+    <string name="dialog_interface_delete_button_positive_answer">Yes</string>
+    <string name="dialog_interface_delete_button_negative_answer">No</string>
+</resources>
